@@ -1,0 +1,3 @@
+
+# don't want to track massive netCDF files
+gcm_data/*
